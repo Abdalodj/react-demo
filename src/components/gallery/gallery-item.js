@@ -1,6 +1,6 @@
 const imgStyle = {
-    width: '300px',
-    height: '170px'
+    //width: '300px',
+    height: '200px'
 }
 
 function GalleryItem(props) {
