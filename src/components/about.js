@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import SkillsForm from "./skillsForm";
+import SkillsForm from "./small-piece/skillsForm";
 
 class About extends Component {
     constructor(props) {

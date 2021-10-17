@@ -29,6 +29,7 @@ function App() {
                   <Route exact path="/counter" component={Counter}/>
                   <Route path="/about" component={About}/>
                   <Route path="/gallery" component={Gallery}/>
+                  <Route path="/gallery" component={Gallery}/>
               </Switch>
           </div>
       </Router>
